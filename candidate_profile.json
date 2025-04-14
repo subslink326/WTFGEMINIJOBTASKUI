@@ -1,0 +1,33 @@
+{
+  "personalInfo": {
+    "name": "Resume Upload Error",
+    "title": "Professional",
+    "location": "Unknown Location",
+    "contact": {
+      "email": null,
+      "phone": null,
+      "website": null,
+      "linkedin": null
+    }
+  },
+  "summary": "Error parsing resume: 'in <string>' requires string as left operand, not NoneType",
+  "skills": [
+    "No skills extracted"
+  ],
+  "workExperience": [
+    {
+      "title": "Professional",
+      "company": "Previous Employment",
+      "location": null,
+      "dates": "Unknown",
+      "description": [
+        "No work experience details could be extracted."
+      ]
+    }
+  ],
+  "projects": [],
+  "interests": [],
+  "references": [],
+  "documentDate": "April, 14 2025",
+  "parsingError": "'in <string>' requires string as left operand, not NoneType"
+}

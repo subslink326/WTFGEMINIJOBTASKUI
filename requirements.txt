@@ -1,0 +1,8 @@
+openai
+requests
+beautifulsoup4
+flask
+python-docx
+PyPDF2
+pdfminer.six
+Werkzeug
